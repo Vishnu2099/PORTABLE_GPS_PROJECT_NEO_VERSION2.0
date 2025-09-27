@@ -1,8 +1,6 @@
-# MY_PROJECTS_VISHNU_ANIL
-different types of projects I have done in past few years
 
-# PROJECT 1 ->
-GPS NAVIGATION USING=>    
+# PROJECT NEO VERSION2.0 ->
+GPS navigation + humidity sensor controlled by potentiometer=>    
 
 1)Arduino
 
@@ -16,5 +14,6 @@ GPS NAVIGATION USING=>
 
 6)jumper wires
 
-This device is capable of delivering a seamless navigation experiance by giving user their current location, distance to their destination, their speed and altitude, themp and humidity of their surroundings.
-Using the usb serial the user is giving a UI to make their choice in their preffered device.Also the switching between all these modes is also connected to the potentiometer which can be used for modes switching.
+7)any mobile/tab with usb debugging enabled
+
+the mobile/tab will serve as display meanwhile the potentiometer will be used for menu navigation.
