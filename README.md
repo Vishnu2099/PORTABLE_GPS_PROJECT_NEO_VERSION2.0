@@ -1,4 +1,4 @@
-
+NOTE:YOU CAN ADD MORE PRESET LOCATIONS TO THE CODE.
 # PROJECT NEO VERSION2.0 ->
 GPS navigation + humidity sensor controlled by potentiometer=>    
 
